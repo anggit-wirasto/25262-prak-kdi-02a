@@ -27,8 +27,7 @@ def caesar_cipher(teks, geser, mode='encrypt'):
     # TULIS KODE ANDA DI BAWAH INI
     pass
 
-# Blok di bawah ini opsional, hanya untuk memudahkan mahasiswa 
-# mencoba kode mereka sendiri di terminal lokal sebelum di-push.
+# Blok kode untuk menguji fungsi caesar_cipher
 if __name__ == '__main__':
     print("=== Uji Coba Lokal ===")
     pesan = "Halo Dunia!"
